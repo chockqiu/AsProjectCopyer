@@ -1,8 +1,10 @@
 # Android Studio 工程复制打包命令行工具
 ## 命令行的使用
 
-1. 下载release目录下文件;
-2. 双击asc.bat或者执行命令: asc  {需要复制的工程路径}
+1. 下载release目录下文件或者[点击这里下载](https://github.com/JerryQch/AsProjectCopyer/releases/tag/1.0);
+
+2. 双击asc.bat或者执行命令: aspjcp  [工程目录] [放置文件目录]
+
 3. 复制完成，Explorer将自动打开目标目录；
 
 
